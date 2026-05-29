@@ -1,0 +1,307 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.eptomart.app"
+4    android:versionCode="13"
+5    android:versionName="1.1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:97:5-67
+11-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:97:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:98:5-79
+12-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:98:22-76
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:99:5-65
+13-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:99:22-62
+14    <uses-permission
+14-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:100:5-107
+15        android:name="android.permission.READ_EXTERNAL_STORAGE"
+15-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:100:22-77
+16        android:maxSdkVersion="32" />
+16-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:100:78-104
+17    <uses-permission
+17-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:101:5-108
+18        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+18-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:101:22-78
+19        android:maxSdkVersion="29" />
+19-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:101:79-105
+20    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+20-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:102:5-77
+20-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:102:22-74
+21
+22    <queries>
+22-->[com.google.androidbrowserhelper:androidbrowserhelper:2.5.0] /Users/apple/.gradle/caches/8.13/transforms/d6ca5957e3e1b69f96f0228dfea5697e/transformed/jetified-androidbrowserhelper-2.5.0/AndroidManifest.xml:26:5-34:15
+23        <intent>
+23-->[com.google.androidbrowserhelper:androidbrowserhelper:2.5.0] /Users/apple/.gradle/caches/8.13/transforms/d6ca5957e3e1b69f96f0228dfea5697e/transformed/jetified-androidbrowserhelper-2.5.0/AndroidManifest.xml:27:9-33:18
+24            <action android:name="android.intent.action.VIEW" />
+24-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:59:17-69
+24-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:59:25-66
+25
+26            <category android:name="android.intent.category.BROWSABLE" />
+26-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:61:17-78
+26-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:61:27-75
+27
+28            <data android:scheme="https" />
+28-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:62:17-76
+28-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:62:23-45
+29        </intent>
+30    </queries>
+31
+32    <permission
+32-->[androidx.core:core:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/0a442df3b823586b7b45366d3f7198cf/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+33        android:name="com.eptomart.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+33-->[androidx.core:core:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/0a442df3b823586b7b45366d3f7198cf/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+34        android:protectionLevel="signature" />
+34-->[androidx.core:core:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/0a442df3b823586b7b45366d3f7198cf/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+35
+36    <uses-permission android:name="com.eptomart.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+36-->[androidx.core:core:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/0a442df3b823586b7b45366d3f7198cf/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+36-->[androidx.core:core:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/0a442df3b823586b7b45366d3f7198cf/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+37
+38    <application
+38-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:4:5-95:19
+39        android:allowBackup="true"
+39-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:5:9-35
+40        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+40-->[androidx.core:core:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/0a442df3b823586b7b45366d3f7198cf/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+41        android:extractNativeLibs="true"
+42        android:icon="@mipmap/ic_launcher"
+42-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:6:9-43
+43        android:label="@string/app_name"
+43-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:7:9-41
+44        android:roundIcon="@mipmap/ic_launcher_round"
+44-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:8:9-54
+45        android:supportsRtl="true"
+45-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:9:9-35
+46        android:theme="@style/Theme.Eptomart" >
+46-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:10:9-46
+47
+48        <!--
+49             ══════════════════════════════════════════════
+50             LAUNCHER ACTIVITY — Opens eptomart.com as TWA
+51             ══════════════════════════════════════════════
+52        -->
+53        <activity
+53-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:15:9-71:20
+54            android:name="com.google.androidbrowserhelper.trusted.LauncherActivity"
+54-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:16:13-84
+55            android:exported="true"
+55-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:17:13-36
+56            android:label="@string/app_name" >
+56-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:18:13-45
+57            <meta-data
+57-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:20:13-22:57
+58                android:name="android.support.customtabs.trusted.DEFAULT_URL"
+58-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:21:17-78
+59                android:value="https://eptomart.com/" />
+59-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:22:17-54
+60            <meta-data
+60-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:24:13-26:58
+61                android:name="android.support.customtabs.trusted.STATUS_BAR_COLOR"
+61-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:25:17-83
+62                android:resource="@color/colorPrimary" />
+62-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:26:17-55
+63            <meta-data
+63-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:28:13-30:58
+64                android:name="android.support.customtabs.trusted.STATUS_BAR_COLOR_DARK"
+64-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:29:17-88
+65                android:resource="@color/colorPrimary" />
+65-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:30:17-55
+66            <meta-data
+66-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:32:13-34:58
+67                android:name="android.support.customtabs.trusted.NAVIGATION_BAR_COLOR"
+67-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:33:17-87
+68                android:resource="@color/colorPrimary" />
+68-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:34:17-55
+69            <meta-data
+69-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:36:13-38:55
+70                android:name="android.support.customtabs.trusted.SPLASH_IMAGE_DRAWABLE"
+70-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:37:17-88
+71                android:resource="@drawable/splash" />
+71-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:38:17-52
+72            <meta-data
+72-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:40:13-42:62
+73                android:name="android.support.customtabs.trusted.SPLASH_SCREEN_BACKGROUND_COLOR"
+73-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:41:17-97
+74                android:resource="@color/splashBackground" />
+74-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:42:17-59
+75            <meta-data
+75-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:44:13-46:39
+76                android:name="android.support.customtabs.trusted.SPLASH_SCREEN_FADE_OUT_DURATION"
+76-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:45:17-98
+77                android:value="300" />
+77-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:46:17-36
+78            <meta-data
+78-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:48:13-50:65
+79                android:name="android.support.customtabs.trusted.FILE_PROVIDER_AUTHORITY"
+79-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:49:17-90
+80                android:value="com.eptomart.app.fileprovider" />
+80-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:50:17-62
+81
+82            <intent-filter>
+82-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:52:13-55:29
+83                <action android:name="android.intent.action.MAIN" />
+83-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:53:17-69
+83-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:53:25-66
+84
+85                <category android:name="android.intent.category.LAUNCHER" />
+85-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:54:17-77
+85-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:54:27-74
+86            </intent-filter>
+87
+88            <!-- Deep links — eptomart.com URLs open directly in the app -->
+89            <intent-filter android:autoVerify="true" >
+89-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:58:13-63:29
+89-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:58:28-53
+90                <action android:name="android.intent.action.VIEW" />
+90-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:59:17-69
+90-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:59:25-66
+91
+92                <category android:name="android.intent.category.DEFAULT" />
+92-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:60:17-76
+92-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:60:27-73
+93                <category android:name="android.intent.category.BROWSABLE" />
+93-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:61:17-78
+93-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:61:27-75
+94
+95                <data
+95-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:62:17-76
+96                    android:host="eptomart.com"
+96-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:62:46-73
+97                    android:scheme="https" />
+97-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:62:23-45
+98            </intent-filter>
+99            <intent-filter android:autoVerify="true" >
+99-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:65:13-70:29
+99-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:65:28-53
+100                <action android:name="android.intent.action.VIEW" />
+100-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:59:17-69
+100-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:59:25-66
+101
+102                <category android:name="android.intent.category.DEFAULT" />
+102-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:60:17-76
+102-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:60:27-73
+103                <category android:name="android.intent.category.BROWSABLE" />
+103-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:61:17-78
+103-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:61:27-75
+104
+105                <data
+105-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:62:17-76
+106                    android:host="www.eptomart.com"
+106-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:62:46-73
+107                    android:scheme="https" />
+107-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:62:23-45
+108            </intent-filter>
+109        </activity>
+110
+111        <!-- DelegationService — required by TWA library -->
+112        <service
+112-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:74:9-82:19
+113            android:name="com.google.androidbrowserhelper.trusted.DelegationService"
+113-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:75:13-85
+114            android:enabled="@bool/enableNotification"
+114-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:76:13-55
+115            android:exported="true" >
+115-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:77:13-36
+116            <intent-filter>
+116-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:78:13-81:29
+117                <action android:name="android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE" />
+117-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:79:17-106
+117-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:79:25-103
+118
+119                <category android:name="android.intent.category.DEFAULT" />
+119-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:60:17-76
+119-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:60:27-73
+120            </intent-filter>
+121        </service>
+122
+123        <!-- File provider for camera / file uploads -->
+124        <provider
+124-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:85:9-93:20
+125            android:name="androidx.core.content.FileProvider"
+125-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:86:13-62
+126            android:authorities="com.eptomart.app.fileprovider"
+126-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:87:13-64
+127            android:exported="false"
+127-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:88:13-37
+128            android:grantUriPermissions="true" >
+128-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:89:13-47
+129            <meta-data
+129-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:90:13-92:54
+130                android:name="android.support.FILE_PROVIDER_PATHS"
+130-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:91:17-67
+131                android:resource="@xml/file_paths" />
+131-->/Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:92:17-51
+132        </provider>
+133        <provider
+133-->[androidx.emoji2:emoji2:1.3.0] /Users/apple/.gradle/caches/8.13/transforms/0cbe343614403bb23b063726add83b65/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+134            android:name="androidx.startup.InitializationProvider"
+134-->[androidx.emoji2:emoji2:1.3.0] /Users/apple/.gradle/caches/8.13/transforms/0cbe343614403bb23b063726add83b65/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:25:13-67
+135            android:authorities="com.eptomart.app.androidx-startup"
+135-->[androidx.emoji2:emoji2:1.3.0] /Users/apple/.gradle/caches/8.13/transforms/0cbe343614403bb23b063726add83b65/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:26:13-68
+136            android:exported="false" >
+136-->[androidx.emoji2:emoji2:1.3.0] /Users/apple/.gradle/caches/8.13/transforms/0cbe343614403bb23b063726add83b65/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:27:13-37
+137            <meta-data
+137-->[androidx.emoji2:emoji2:1.3.0] /Users/apple/.gradle/caches/8.13/transforms/0cbe343614403bb23b063726add83b65/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+138                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+138-->[androidx.emoji2:emoji2:1.3.0] /Users/apple/.gradle/caches/8.13/transforms/0cbe343614403bb23b063726add83b65/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:30:17-75
+139                android:value="androidx.startup" />
+139-->[androidx.emoji2:emoji2:1.3.0] /Users/apple/.gradle/caches/8.13/transforms/0cbe343614403bb23b063726add83b65/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:31:17-49
+140            <meta-data
+140-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/7f422d072582d65d4bebf07b8951c54d/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+141                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+141-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/7f422d072582d65d4bebf07b8951c54d/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+142                android:value="androidx.startup" />
+142-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/7f422d072582d65d4bebf07b8951c54d/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+143            <meta-data
+143-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+144                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+144-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+145                android:value="androidx.startup" />
+145-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+146        </provider>
+147
+148        <receiver
+148-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+149            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+149-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+150            android:directBootAware="false"
+150-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+151            android:enabled="true"
+151-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+152            android:exported="true"
+152-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+153            android:permission="android.permission.DUMP" >
+153-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+154            <intent-filter>
+154-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+155                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+155-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+155-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+156            </intent-filter>
+157            <intent-filter>
+157-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+158                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+158-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+158-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+159            </intent-filter>
+160            <intent-filter>
+160-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+161                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+161-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+161-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+162            </intent-filter>
+163            <intent-filter>
+163-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+164                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+164-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+164-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+165            </intent-filter>
+166        </receiver>
+167    </application>
+168
+169</manifest>

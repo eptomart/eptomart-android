@@ -1,0 +1,390 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:2:1-104:12
+INJECTED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:2:1-104:12
+INJECTED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:2:1-104:12
+INJECTED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:2:1-104:12
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:2.5.0] /Users/apple/.gradle/caches/8.13/transforms/d6ca5957e3e1b69f96f0228dfea5697e/transformed/jetified-androidbrowserhelper-2.5.0/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/apple/.gradle/caches/8.13/transforms/1109ab0add79c8ea9fe4023fff9b8f0f/transformed/jetified-appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/apple/.gradle/caches/8.13/transforms/b53fdde436f23ce080f349958593ad2a/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.browser:browser:1.8.0] /Users/apple/.gradle/caches/8.13/transforms/f76067aa071451408e6dfc29d0f0ae53/transformed/browser-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/apple/.gradle/caches/8.13/transforms/10f580b8ac9b6b646755dd5cfac55887/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.7.0] /Users/apple/.gradle/caches/8.13/transforms/dd61469183e71fbe4e79644f00741243/transformed/jetified-activity-1.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/apple/.gradle/caches/8.13/transforms/3427b18a43a70d4c386cdf74a70b1447/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/apple/.gradle/caches/8.13/transforms/31a116713b91b8fed022f9d8234c38e5/transformed/jetified-emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/apple/.gradle/caches/8.13/transforms/0cbe343614403bb23b063726add83b65/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/apple/.gradle/caches/8.13/transforms/a34792fd085fdf1f12c80c39dda794a7/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/b53233ecc3c045e90efd28dfb9ff22bb/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/23a24450aa3e0038e2e2cdd86aac670f/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/7f422d072582d65d4bebf07b8951c54d/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/37323a25e98c8c13a531b77a8760e4f6/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/e5ae66fe9f4fee57533e2a06a3204c54/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/88ad1b70f4976b9391a93450d11584ad/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/e6cafc48ead4c2351f56571755eed6be/transformed/jetified-core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/apple/.gradle/caches/8.13/transforms/4e1f6fa0a0cdda9da006355ad1586c64/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/apple/.gradle/caches/8.13/transforms/93c96da67cccfd07dde764e91896b18c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/apple/.gradle/caches/8.13/transforms/fc1af002c11c96c9834d19d67583f5d2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/apple/.gradle/caches/8.13/transforms/ce9344e2943187a32a45450a6c7edaab/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/apple/.gradle/caches/8.13/transforms/8fb1378ae3e001fde541ccdfd31de8cb/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/0a442df3b823586b7b45366d3f7198cf/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/apple/.gradle/caches/8.13/transforms/4393d66053a2d88a53d125480d5b43d7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/apple/.gradle/caches/8.13/transforms/97be29755e6b940ef3dec554e527f2c8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/apple/.gradle/caches/8.13/transforms/fd03f2aa5276cf78db053a07078f9689/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/apple/.gradle/caches/8.13/transforms/67b5f746dc5ca3f37a0531f2211c36b4/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/apple/.gradle/caches/8.13/transforms/b65b8f856d20f8fcb1147da66bb73469/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/apple/.gradle/caches/8.13/transforms/a04584770a49cc02449dadedd502c584/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/apple/.gradle/caches/8.13/transforms/3714b7026bc0894155d7d4d8595bad31/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:4:5-95:19
+INJECTED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:4:5-95:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/apple/.gradle/caches/8.13/transforms/0cbe343614403bb23b063726add83b65/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/apple/.gradle/caches/8.13/transforms/0cbe343614403bb23b063726add83b65/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/7f422d072582d65d4bebf07b8951c54d/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/7f422d072582d65d4bebf07b8951c54d/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/0a442df3b823586b7b45366d3f7198cf/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/0a442df3b823586b7b45366d3f7198cf/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/apple/.gradle/caches/8.13/transforms/97be29755e6b940ef3dec554e527f2c8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/apple/.gradle/caches/8.13/transforms/97be29755e6b940ef3dec554e527f2c8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/apple/.gradle/caches/8.13/transforms/67b5f746dc5ca3f37a0531f2211c36b4/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/apple/.gradle/caches/8.13/transforms/67b5f746dc5ca3f37a0531f2211c36b4/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/0a442df3b823586b7b45366d3f7198cf/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:10:9-46
+activity#com.google.androidbrowserhelper.trusted.LauncherActivity
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:15:9-71:20
+	android:label
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:18:13-45
+	android:exported
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:16:13-84
+meta-data#android.support.customtabs.trusted.DEFAULT_URL
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:20:13-22:57
+	android:value
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:22:17-54
+	android:name
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:21:17-78
+meta-data#android.support.customtabs.trusted.STATUS_BAR_COLOR
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:24:13-26:58
+	android:resource
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:26:17-55
+	android:name
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:25:17-83
+meta-data#android.support.customtabs.trusted.STATUS_BAR_COLOR_DARK
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:28:13-30:58
+	android:resource
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:30:17-55
+	android:name
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:29:17-88
+meta-data#android.support.customtabs.trusted.NAVIGATION_BAR_COLOR
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:32:13-34:58
+	android:resource
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:34:17-55
+	android:name
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:33:17-87
+meta-data#android.support.customtabs.trusted.SPLASH_IMAGE_DRAWABLE
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:36:13-38:55
+	android:resource
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:38:17-52
+	android:name
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:37:17-88
+meta-data#android.support.customtabs.trusted.SPLASH_SCREEN_BACKGROUND_COLOR
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:40:13-42:62
+	android:resource
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:42:17-59
+	android:name
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:41:17-97
+meta-data#android.support.customtabs.trusted.SPLASH_SCREEN_FADE_OUT_DURATION
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:44:13-46:39
+	android:value
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:46:17-36
+	android:name
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:45:17-98
+meta-data#android.support.customtabs.trusted.FILE_PROVIDER_AUTHORITY
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:48:13-50:65
+	android:value
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:50:17-62
+	android:name
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:49:17-90
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:52:13-55:29
+action#android.intent.action.MAIN
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:54:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:eptomart.com+data:scheme:https
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:58:13-63:29
+	android:autoVerify
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:58:28-53
+action#android.intent.action.VIEW
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:59:17-69
+	android:name
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:59:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:60:17-76
+	android:name
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:60:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:61:17-78
+	android:name
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:61:27-75
+data
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:62:17-76
+	android:host
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:62:46-73
+	android:scheme
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:62:23-45
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:www.eptomart.com+data:scheme:https
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:65:13-70:29
+	android:autoVerify
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:65:28-53
+service#com.google.androidbrowserhelper.trusted.DelegationService
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:74:9-82:19
+	android:enabled
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:76:13-55
+	android:exported
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:77:13-36
+	android:name
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:75:13-85
+intent-filter#action:name:android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE+category:name:android.intent.category.DEFAULT
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:78:13-81:29
+action#android.support.customtabs.trusted.TRUSTED_WEB_ACTIVITY_SERVICE
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:79:17-106
+	android:name
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:79:25-103
+provider#androidx.core.content.FileProvider
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:85:9-93:20
+	android:grantUriPermissions
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:89:13-47
+	android:authorities
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:87:13-64
+	android:exported
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:88:13-37
+	android:name
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:86:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:90:13-92:54
+	android:resource
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:92:17-51
+	android:name
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:91:17-67
+uses-permission#android.permission.INTERNET
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:97:5-67
+	android:name
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:97:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:98:5-79
+	android:name
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:98:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:99:5-65
+	android:name
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:99:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:100:5-107
+	android:maxSdkVersion
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:100:78-104
+	android:name
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:100:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:101:5-108
+	android:maxSdkVersion
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:101:79-105
+	android:name
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:101:22-78
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:102:5-77
+	android:name
+		ADDED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml:102:22-74
+uses-sdk
+INJECTED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:2.5.0] /Users/apple/.gradle/caches/8.13/transforms/d6ca5957e3e1b69f96f0228dfea5697e/transformed/jetified-androidbrowserhelper-2.5.0/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.androidbrowserhelper:androidbrowserhelper:2.5.0] /Users/apple/.gradle/caches/8.13/transforms/d6ca5957e3e1b69f96f0228dfea5697e/transformed/jetified-androidbrowserhelper-2.5.0/AndroidManifest.xml:22:5-24:41
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/apple/.gradle/caches/8.13/transforms/1109ab0add79c8ea9fe4023fff9b8f0f/transformed/jetified-appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/apple/.gradle/caches/8.13/transforms/1109ab0add79c8ea9fe4023fff9b8f0f/transformed/jetified-appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/apple/.gradle/caches/8.13/transforms/b53fdde436f23ce080f349958593ad2a/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/apple/.gradle/caches/8.13/transforms/b53fdde436f23ce080f349958593ad2a/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.8.0] /Users/apple/.gradle/caches/8.13/transforms/f76067aa071451408e6dfc29d0f0ae53/transformed/browser-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.8.0] /Users/apple/.gradle/caches/8.13/transforms/f76067aa071451408e6dfc29d0f0ae53/transformed/browser-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/apple/.gradle/caches/8.13/transforms/10f580b8ac9b6b646755dd5cfac55887/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/apple/.gradle/caches/8.13/transforms/10f580b8ac9b6b646755dd5cfac55887/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.7.0] /Users/apple/.gradle/caches/8.13/transforms/dd61469183e71fbe4e79644f00741243/transformed/jetified-activity-1.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.0] /Users/apple/.gradle/caches/8.13/transforms/dd61469183e71fbe4e79644f00741243/transformed/jetified-activity-1.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/apple/.gradle/caches/8.13/transforms/3427b18a43a70d4c386cdf74a70b1447/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/apple/.gradle/caches/8.13/transforms/3427b18a43a70d4c386cdf74a70b1447/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/apple/.gradle/caches/8.13/transforms/31a116713b91b8fed022f9d8234c38e5/transformed/jetified-emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/apple/.gradle/caches/8.13/transforms/31a116713b91b8fed022f9d8234c38e5/transformed/jetified-emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/apple/.gradle/caches/8.13/transforms/0cbe343614403bb23b063726add83b65/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/apple/.gradle/caches/8.13/transforms/0cbe343614403bb23b063726add83b65/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/apple/.gradle/caches/8.13/transforms/a34792fd085fdf1f12c80c39dda794a7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/apple/.gradle/caches/8.13/transforms/a34792fd085fdf1f12c80c39dda794a7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/b53233ecc3c045e90efd28dfb9ff22bb/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/b53233ecc3c045e90efd28dfb9ff22bb/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/23a24450aa3e0038e2e2cdd86aac670f/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/23a24450aa3e0038e2e2cdd86aac670f/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/7f422d072582d65d4bebf07b8951c54d/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/7f422d072582d65d4bebf07b8951c54d/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/37323a25e98c8c13a531b77a8760e4f6/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/37323a25e98c8c13a531b77a8760e4f6/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/e5ae66fe9f4fee57533e2a06a3204c54/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/e5ae66fe9f4fee57533e2a06a3204c54/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/88ad1b70f4976b9391a93450d11584ad/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/88ad1b70f4976b9391a93450d11584ad/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/e6cafc48ead4c2351f56571755eed6be/transformed/jetified-core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/e6cafc48ead4c2351f56571755eed6be/transformed/jetified-core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/apple/.gradle/caches/8.13/transforms/4e1f6fa0a0cdda9da006355ad1586c64/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/apple/.gradle/caches/8.13/transforms/4e1f6fa0a0cdda9da006355ad1586c64/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/apple/.gradle/caches/8.13/transforms/93c96da67cccfd07dde764e91896b18c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/apple/.gradle/caches/8.13/transforms/93c96da67cccfd07dde764e91896b18c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/apple/.gradle/caches/8.13/transforms/fc1af002c11c96c9834d19d67583f5d2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/apple/.gradle/caches/8.13/transforms/fc1af002c11c96c9834d19d67583f5d2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/apple/.gradle/caches/8.13/transforms/ce9344e2943187a32a45450a6c7edaab/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/apple/.gradle/caches/8.13/transforms/ce9344e2943187a32a45450a6c7edaab/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/apple/.gradle/caches/8.13/transforms/8fb1378ae3e001fde541ccdfd31de8cb/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/apple/.gradle/caches/8.13/transforms/8fb1378ae3e001fde541ccdfd31de8cb/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/0a442df3b823586b7b45366d3f7198cf/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/0a442df3b823586b7b45366d3f7198cf/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/apple/.gradle/caches/8.13/transforms/4393d66053a2d88a53d125480d5b43d7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/apple/.gradle/caches/8.13/transforms/4393d66053a2d88a53d125480d5b43d7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/apple/.gradle/caches/8.13/transforms/97be29755e6b940ef3dec554e527f2c8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/apple/.gradle/caches/8.13/transforms/97be29755e6b940ef3dec554e527f2c8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/apple/.gradle/caches/8.13/transforms/fd03f2aa5276cf78db053a07078f9689/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/apple/.gradle/caches/8.13/transforms/fd03f2aa5276cf78db053a07078f9689/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/apple/.gradle/caches/8.13/transforms/67b5f746dc5ca3f37a0531f2211c36b4/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/apple/.gradle/caches/8.13/transforms/67b5f746dc5ca3f37a0531f2211c36b4/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/apple/.gradle/caches/8.13/transforms/b65b8f856d20f8fcb1147da66bb73469/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/apple/.gradle/caches/8.13/transforms/b65b8f856d20f8fcb1147da66bb73469/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/apple/.gradle/caches/8.13/transforms/a04584770a49cc02449dadedd502c584/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/apple/.gradle/caches/8.13/transforms/a04584770a49cc02449dadedd502c584/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/apple/.gradle/caches/8.13/transforms/3714b7026bc0894155d7d4d8595bad31/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/apple/.gradle/caches/8.13/transforms/3714b7026bc0894155d7d4d8595bad31/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/apple/Documents/Claude/Projects/Eptomart Ecommerce website/eptomart-android/app/src/main/AndroidManifest.xml
+queries
+ADDED from [com.google.androidbrowserhelper:androidbrowserhelper:2.5.0] /Users/apple/.gradle/caches/8.13/transforms/d6ca5957e3e1b69f96f0228dfea5697e/transformed/jetified-androidbrowserhelper-2.5.0/AndroidManifest.xml:26:5-34:15
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from [com.google.androidbrowserhelper:androidbrowserhelper:2.5.0] /Users/apple/.gradle/caches/8.13/transforms/d6ca5957e3e1b69f96f0228dfea5697e/transformed/jetified-androidbrowserhelper-2.5.0/AndroidManifest.xml:27:9-33:18
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/apple/.gradle/caches/8.13/transforms/0cbe343614403bb23b063726add83b65/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/7f422d072582d65d4bebf07b8951c54d/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/7f422d072582d65d4bebf07b8951c54d/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/apple/.gradle/caches/8.13/transforms/67b5f746dc5ca3f37a0531f2211c36b4/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/apple/.gradle/caches/8.13/transforms/67b5f746dc5ca3f37a0531f2211c36b4/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/apple/.gradle/caches/8.13/transforms/0cbe343614403bb23b063726add83b65/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/apple/.gradle/caches/8.13/transforms/0cbe343614403bb23b063726add83b65/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/apple/.gradle/caches/8.13/transforms/0cbe343614403bb23b063726add83b65/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/apple/.gradle/caches/8.13/transforms/0cbe343614403bb23b063726add83b65/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/apple/.gradle/caches/8.13/transforms/0cbe343614403bb23b063726add83b65/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/apple/.gradle/caches/8.13/transforms/0cbe343614403bb23b063726add83b65/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/apple/.gradle/caches/8.13/transforms/0cbe343614403bb23b063726add83b65/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/7f422d072582d65d4bebf07b8951c54d/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/7f422d072582d65d4bebf07b8951c54d/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/apple/.gradle/caches/8.13/transforms/7f422d072582d65d4bebf07b8951c54d/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/0a442df3b823586b7b45366d3f7198cf/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/0a442df3b823586b7b45366d3f7198cf/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/0a442df3b823586b7b45366d3f7198cf/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+permission#com.eptomart.app.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/0a442df3b823586b7b45366d3f7198cf/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/0a442df3b823586b7b45366d3f7198cf/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/0a442df3b823586b7b45366d3f7198cf/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/0a442df3b823586b7b45366d3f7198cf/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/0a442df3b823586b7b45366d3f7198cf/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+uses-permission#com.eptomart.app.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/0a442df3b823586b7b45366d3f7198cf/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/apple/.gradle/caches/8.13/transforms/0a442df3b823586b7b45366d3f7198cf/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/apple/.gradle/caches/8.13/transforms/4406a9fbde36da215b72289a02691bd5/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92

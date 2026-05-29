@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-debug-25:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-main-27:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-debug-25:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-main-27:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.eptomart.app-debug-25:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.eptomart.app-main-27:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-debug-25:/xml_file_paths.xml.flat",
+        "source": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-main-27:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.eptomart.app-debug-25:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.eptomart.app-main-27:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-debug-25:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-main-27:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.eptomart.app-debug-25:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.eptomart.app-main-27:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-debug-25:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-main-27:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-debug-25:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-main-27:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-debug-25:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-main-27:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-debug-25:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-main-27:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.eptomart.app-debug-25:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.eptomart.app-main-27:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.eptomart.app-debug-25:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.eptomart.app-main-27:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.eptomart.app-debug-25:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.eptomart.app-main-27:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-debug-25:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-main-27:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.eptomart.app-debug-25:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.eptomart.app-main-27:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-debug-25:/drawable_eptomart_logo.png.flat",
+        "source": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-main-27:/drawable/eptomart_logo.png"
+    },
+    {
+        "merged": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-debug-25:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-main-27:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.eptomart.app-debug-25:/drawable_splash_image.png.flat",
+        "source": "com.eptomart.app-main-27:/drawable/splash_image.png"
+    },
+    {
+        "merged": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-debug-25:/drawable_splash.xml.flat",
+        "source": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-main-27:/drawable/splash.xml"
+    },
+    {
+        "merged": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-debug-25:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-main-27:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-debug-25:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-main-27:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-debug-25:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-main-27:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.eptomart.app-debug-25:/drawable_ic_launcher_foreground.png.flat",
+        "source": "com.eptomart.app-main-27:/drawable/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.eptomart.app-debug-25:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.eptomart.app-main-27:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.eptomart.app-debug-25:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.eptomart.app-main-27:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.eptomart.app-debug-25:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.eptomart.app-main-27:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-debug-25:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-main-27:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.eptomart.app-debug-25:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.eptomart.app-main-27:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-debug-25:/drawable_splash_image.png.flat",
+        "source": "/Users/apple/.gradle/daemon/8.13/com.eptomart.app-main-27:/drawable/splash_image.png"
+    },
+    {
+        "merged": "com.eptomart.app-debug-25:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.eptomart.app-main-27:/mipmap-mdpi/ic_launcher.png"
+    }
+]
